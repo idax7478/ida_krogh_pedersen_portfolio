@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+h2 {
+  font-family: fino-sans, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-family: fino-sans, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
